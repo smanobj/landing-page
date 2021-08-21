@@ -1,15 +1,4 @@
-body {
-  background-color: red;
-}
-
-.backdiv {
-  max-width: 1200;
-  margin: auto;
-}
-
-
 @media only screen and (max-width: 700px) {
-  
   
   body {
   box-sizing:border-box;
@@ -20,7 +9,6 @@ body {
   width:100%;
   }
   
-
 .navbar {
   width:35px;
   height:35px;
@@ -51,7 +39,7 @@ body {
   opacity:0;
 }
 
-
+  
 .backdiv {
   width:100%;
   display:block;
